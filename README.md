@@ -1,2 +1,3 @@
 # DEMO
-THIS IS FIRST PROJECT
+THIS IS MY FIRST PROJECT
+This is First git session
